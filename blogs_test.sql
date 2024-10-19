@@ -1,4 +1,4 @@
-#Script to test datas for blog database
+# test script
 USE blogs;
 SELECT *
 FROM author;

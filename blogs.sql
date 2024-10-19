@@ -1,4 +1,4 @@
-#Readme instruction 1
+#task 1
 CREATE DATABASE blogs;
 
 USE blogs;

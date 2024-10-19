@@ -1,5 +1,4 @@
-#Script to test datas for airline database
-USE airline;
+#test script
 
 # In the Airline database write the SQL script to get the total number of flights in the database.
 SELECT COUNT(*) AS 'flight total number'

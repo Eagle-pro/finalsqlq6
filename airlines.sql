@@ -1,4 +1,4 @@
-#Readme instruction 2
+#task 2
 CREATE DATABASE airline;
 
 USE airline;
